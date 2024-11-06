@@ -6,3 +6,4 @@ For more information, see the [course curriculum](https://nextjs.org/learn) on t
 # my-first-next-project
 # my-first-next-project
 # my-first-next-project
+# my-first-next-project
